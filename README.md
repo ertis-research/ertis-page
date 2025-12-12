@@ -1,10 +1,5 @@
 # [Pagina web proyecto ISAT](https://ertis-research.github.io/ertis-page/)
 
-El proyecto propone el desarrollo de un Sistema de Alerta Temprana inteligente (iSAT) para mejorar la gestión del agua subterránea en captaciones urbanas durante periodos de sequía. El iSAT integrará un conjunto de sensores de bajo coste para medir parámetros hidrogeológicos en continuo (nivel, caudal, conductividad, temperatura, turbidez y oxígeno disuelto), junto con algoritmos de inteligencia artificial (soft sensors) capaces de anticipar la disponibilidad y calidad del agua e identificar posibles episodios de contaminación. Los datos serán enviados de forma remota mediante comunicaciones multi-protocolo (GPRS, radio y satélite), garantizando la operatividad en entornos remotos. Con este sistema, se busca disponer de una herramienta predictiva y preventiva que apoye la toma de decisiones de gestores y operadores del agua, optimizando el aprovechamiento de acuíferos kársticos y reduciendo riesgos para el abastecimiento urbano.
-
-Esta página web se ha desarrollado utilizando la herramienta de Hugo Blox [Hugo Landing Page Theme](https://github.com/HugoBlox/theme-landing-page)
-
-----
 
 ## Personalización de la Plantilla Hugo Blox
 
