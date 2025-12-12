@@ -17,7 +17,7 @@ sections:
         id: btn-more-info
         text: "More Info..."
         url: "research/"
-      background_image: ../assets/media/fondo_microsoft.png
+      background_image: ../assets/media/Comida_2025.jpg
     design:
       spacing:
         padding: [0, 0, 0, 0]

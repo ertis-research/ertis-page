@@ -13,7 +13,7 @@
   margin-bottom: 12px;
   border-left: 6px solid #f97316; /* Barra más gruesa */
   border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.377);
   transition: all 0.4s ease; /* Transición más suave */
   position: relative;
   overflow: hidden;
