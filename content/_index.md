@@ -17,7 +17,7 @@ sections:
         id: btn-more-info
         text: "More Info..."
         url: "research/"
-      background_image: ../assets/media/Comida_2025.jpg
+      background_image: media/Comida_2025.jpg
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -35,14 +35,14 @@ sections:
           icon: puzzle-piece
           description: Architectures for modeling, simulation, and monitoring of physical processes, applied to domains such as agriculture, energy, and infrastructures.
           image_one: 
-            path: ../assets/media/logo_OpenTwins.svg
+            path: media/logo_OpenTwins.svg
             name: Open Twins
             link: https://ertis-research.github.io/opentwins/
         - name: Streaming Deep and Distributed Neural Networks over the IoT/Edge/Fog/Cloud
           icon: cloud
           description: ERTIS investiga cómo integrar redes neuronales profundas con sistemas de mensajería para desplegarlas en entornos IoT, Edge, Fog y Cloud, ejemplificado en su framework **Kafka-ML**, que gestiona todo el ciclo de vida de modelos de IA mediante flujos de datos.
           image_one: 
-            path: ../assets/media/logo_Kafka.svg
+            path: media/logo_Kafka.svg
             name: Kafka-ML
             link: https://github.com/ertis-research/kafka-ml
         - name: IoT, Edge, and Fog Computing

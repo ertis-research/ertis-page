@@ -19,4 +19,4 @@ Esta publicación es parte del proyecto Enabling Zero impact wastewater treatmen
 
 ZeroVision: Proyecto CPP2021 009032 financiado por:
 
-![Alt text](/media/news/logo_ministerio.png)
+![Alt text](../../assets/media/news/logo_ministerio.png)

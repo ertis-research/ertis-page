@@ -21,7 +21,7 @@
 
   <div class="gallery mx-auto mt-6">
     {{ range $key, $value := $block.content.images }}
-      {{ $img := resources.Get (printf "../assets/media/visits/%s" $value) }}
+      {{ $img := resources.Get (printf "media/visits/%s" $value) }}
       {{ if $img }}
         <a href="{{ $img.RelPermalink }}" class="gallery-item glightbox" data-gallery="visits-gallery">
           <img src="{{ $img.RelPermalink }}" alt="{{ $key }}" class="img-fluid rounded mb-2" />
