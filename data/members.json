@@ -46,10 +46,10 @@
       "web": "http://www.lcc.uma.es/~cmf/"
     },
     {
-      "role": "PhD Student",
+      "role": "PostDoctoral Researcher",
       "name": "Alejandro Carnero Hijano",
-      "images": { "src": "acarnero.png", "alt": "Alejandro Carnero Hijano | PhD Student" },
-      "bio": "Alejandro Carnero received his Bachelor’s degree in Software Engineering and his M.Sc. in Software Engineering and Artificial Intelligence from the University of Málaga, Spain, in 2020 and 2021, respectively. Since the end of 2020 he has been a research assistant in the ERTIS research group at the University of Málaga. Currently, he is a PhD student researching structural health monitoring of civil infrastructures. His research interests focus on distributed deep machine learning and computer vision along with the IoT field.",
+      "images": { "src": "acarnero-2.png", "alt": "Alejandro Carnero Hijano | PostDoctoral Researcher" },
+      "bio": "Alejandro Carnero received his BSc in Software Engineering, his MSc in Software Engineering and Artificial Intelligence, and his PhD in Computer Science from the University of Málaga, in 2020, 2021, and 2025, respectively. Since the end of 2020 he has been a research assistant in the ERTIS Research Group at the University of Málaga. Currently, he is a member of the ITIS Software Institute of the University of Málaga and his research interests focus on partitioned, incremental, and federated deep machine learning and artificial vision along with the IoT field.",
       "email": "alexcarnero97@uma.es"
     },
     {
