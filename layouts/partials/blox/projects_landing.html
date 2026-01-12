@@ -27,7 +27,7 @@
                         <br><small>{{ . }}</small>
                     {{ end }}
                     {{ with $project.images }}
-                    <div class="flex gap-2 mt-2">
+                    <div class="image-container flex gap-2 mt-2">
                         {{ range $image := . }}
                         {{ $img := resources.Get (printf "media/projects/%s" $image.src) }}
                         {{ if $img }}

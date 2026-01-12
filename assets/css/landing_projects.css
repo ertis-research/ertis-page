@@ -19,10 +19,6 @@
   overflow: hidden;
 }
 
-.container-projects li div {
-  align-items: center;
-}
-
 .container-projects li::before {
   content: '';
   position: absolute;
